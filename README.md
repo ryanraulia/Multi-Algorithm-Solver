@@ -1,6 +1,6 @@
-# Algorithm Implementations and Execution Script
+# Multi-Algorithm Solver using Python
 
-This repository contains implementations of various algorithms including Bubble Sort, Binary Search, Fibonacci Search, Count Inversions, and the 0/1 Knapsack Problem. Additionally, a simple command-line interface (CLI) is provided to allow users to choose and execute these algorithms on their input data.
+This repository contains implementations of various algorithms including Bubble Sort, Binary Search, Fibonacci Search, Count Inversions, and the 0/1 Knapsack Problem. Additionally, a simple command-line interface (CLI) is provided to allow users to choose and execute these algorithms on their input data. Made to aid in my Algorithm Module.
 
 ## Algorithms
 
