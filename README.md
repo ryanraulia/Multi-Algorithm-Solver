@@ -163,6 +163,6 @@ if __name__ == "__main__":
 2. Navigate to the directory containing the script.
 3. Run the script using Python:
    ```bash
-   python script_name.py
+   python algorithm-solver.py
    ```
 4. Follow the on-screen instructions to choose an algorithm
